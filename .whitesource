@@ -1,5 +1,5 @@
 {
-  "settingsInheritedFrom": "Dima2021/whitesource-config@main",
+  "settingsInheritedFrom": "Dima2021/whitesource-config@master",
   "scanSettings": {
     "enableReachability": true,
     "releaseBranches": ["v.*"]
